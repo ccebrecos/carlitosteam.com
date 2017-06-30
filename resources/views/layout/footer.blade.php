@@ -7,7 +7,7 @@
 <footer>
     <div class="row">
         <div class"col-lg-12 text-center">
-            <p> &lt;> with ♥ by <a href="https://twitter.com/ccebrecos" target="_blank" /></p>
+            <p> &lt;> with ♥ by <a href="https://twitter.com/ccebrecos" target="_blank">ccebrecos</a></p>
         </div>
         <div class="col-lg-12">
             <p>Copyright &copy; Carlitos'team 2017</p>
