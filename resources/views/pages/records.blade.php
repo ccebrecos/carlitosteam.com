@@ -1,7 +1,7 @@
 @extends('layout.base')
 @section('header-title','| Records')
 @section('title', 'Records')
-@section('description', 'Les millors marques dels nostres atletes')
+@section('description', 'Las mejores marcas de nuestros atletas')
 @section('path', 'Records')
 @section('content')
 <div class="row">

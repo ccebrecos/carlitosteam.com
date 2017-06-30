@@ -1,7 +1,7 @@
 @extends('layout.base')
 @section('header-title','| About')
-@section('title','Qui som?')
-@section('description', 'Sobre nosaltres')
+@section('title','¿Quiénes somos?')
+@section('description', 'Sobre nosotros')
 @section('path', 'About')
 
 @section('content')
@@ -20,7 +20,7 @@
 
 <div class="row">
     <div class="col-lg-12">
-        <h2 class="page-header">Our Team</h2>
+        <h2 class="page-header">Nuestro equipo</h2>
     </div>
 
     @foreach($athletes as $athlete)
@@ -44,8 +44,6 @@
       </div>
     </div>
 
-
     @endforeach
-
 </div>
 @endsection

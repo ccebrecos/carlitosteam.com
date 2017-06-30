@@ -1,7 +1,7 @@
 @extends('layout.base')
 @section('header-title','| Contact')
-@section('title', 'Contact')
-@section('description', 'On trobar-nos?')
+@section('title', 'Contacto')
+@section('description', '¿Dónde encontrarnos?')
 @section('path', 'Contact')
 
 @section('content')
@@ -14,7 +14,7 @@
             </div>
             <!-- Contact Details Column -->
             <div class="col-md-4">
-                <h3>Contact Details</h3>
+                <h3>Detalles de Contacto</h3>
                 <p>
                     Camí Can Quadres, 190 <br>08203, Sabadell, Barcelona<br>
                 </p>
@@ -31,6 +31,7 @@
 
         <!-- Contact Form -->
         <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
+        <!--
         <div class="row">
             <div class="col-md-8">
                 <h3>Send us a Message</h3>
@@ -61,11 +62,12 @@
                         </div>
                     </div>
                     <div id="success"></div>
-                    <!-- For success/fail messages -->
+                    <!-- For success/fail messages --><!--
                     <button type="submit" class="btn btn-primary">Send Message</button>
                 </form>
             </div>
 
         </div>
+        -->
         <!-- /.row -->
 @endsection

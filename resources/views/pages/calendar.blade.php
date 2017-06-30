@@ -1,7 +1,7 @@
 @extends('layout.base')
 @section('header-title','| Calendar')
-@section('title', 'Calendar')
-@section('description', 'Competicions i esdeveniments importants')
+@section('title', 'Calendario')
+@section('description', 'Competiciones y eventos importantes')
 @section('path', 'Calendar')
 
 @section('content')
