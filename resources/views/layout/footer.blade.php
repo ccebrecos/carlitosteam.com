@@ -6,11 +6,8 @@
 <!-- Footer -->
 <footer>
     <div class="row">
-        <div class"col-lg-12 text-center">
-            <p> made with ♥ by <a href="https://twitter.com/ccebrecos" target="_blank">ccebrecos</a></p>
-        </div>
         <div class="col-lg-12">
-            <p>Copyright &copy; Carlitos'team 2017</p>
+            <p>made with ♥ by <a href="https://twitter.com/ccebrecos" target="_blank">ccebrecos</a>; Copyright &copy; Carlitos'team 2017</p>
         </div>
     </div>
 </footer>
